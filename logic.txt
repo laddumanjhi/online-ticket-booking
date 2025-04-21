@@ -1,0 +1,15 @@
+start
+login
+    create account
+    sign in
+main 
+    bus ticket  
+    train ticket
+    plane ticket
+exit
+bus ticket page :
+    selection of bus(provide details for user buses)---output
+        enter the from & to place name :---- input
+            provide to ticket price and time details:---output
+            date:----input
+                
